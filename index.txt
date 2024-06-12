@@ -1,0 +1,3 @@
+Q: What is Java?\nA: Java is a high-level, class-based, object-oriented programming language.
+Q: What is JVM?\nA: JVM stands for Java Virtual Machine. It is a virtual machine that enables a computer to run Java programs.
+Q: What are the features of Java?\nA: Some features of Java include Object-Oriented, Platform Independent, Simple, Secure, etc.
